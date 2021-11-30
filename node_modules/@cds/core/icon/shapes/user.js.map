@@ -1,0 +1,1 @@
+{"version":3,"file":"user.js","sources":["../../../../src/icon/shapes/user.ts"],"sourcesContent":null,"names":["userIconName","userIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAe,OACfC,EAAW,CADI,OACWC,EAT1B,CACTC,QAAS,kQACTC,eAAgB,4RAChBC,cAAe,gSACfC,MAAO,0LACPC,aAAc,wPACdC,YAAa"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"backup.js","sources":["../../../../src/icon/shapes/backup.ts"],"sourcesContent":null,"names":["backupIconName","backupIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,ydACTC,eAAgB,+aAChBC,cAAe,2eACfC,MAAO,4ZACPC,aAAc,sXACdC,YAAa"}

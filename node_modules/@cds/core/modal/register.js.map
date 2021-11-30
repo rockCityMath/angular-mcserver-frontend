@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../src/modal/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsModalHeaderActions","CdsModalActions","CdsModalHeader","CdsModalContent","CdsModal"],"mappings":"ieAaAA,EAAsB,2BAA4BC,GAClDD,EAAsB,oBAAqBE,GAC3CF,EAAsB,mBAAoBG,GAC1CH,EAAsB,oBAAqBI,GAC3CJ,EAAsB,YAAaK"}

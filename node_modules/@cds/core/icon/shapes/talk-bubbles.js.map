@@ -1,0 +1,1 @@
+{"version":3,"file":"talk-bubbles.js","sources":["../../../../src/icon/shapes/talk-bubbles.ts"],"sourcesContent":null,"names":["talkBubblesIconName","talkBubblesIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAsB,eACtBC,EAAkB,CADI,eACkBC,EAPxC,CACTC,QAAS,+YACTC,cAAe,8ZACfC,MAAO,6PACPC,YAAa"}

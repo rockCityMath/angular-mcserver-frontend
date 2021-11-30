@@ -1,0 +1,22 @@
+<clr-main-container>
+    <clr-header>
+        <div >
+            <h2 style="margin: 10px; color:white;">Server Control Panel</h2>
+        </div>
+    </clr-header>
+    <div class="content-container" >
+        
+            <clr-vertical-nav class="header-nav" [clr-nav-level]="1">
+        
+                <a clrVerticalNavLink routerLink="./home" routerLinkActive="active">Home</a>
+                <a clrVerticalNavLink routerLink="./console" routerLinkActive="active">Console</a>
+                <div class="nav-divider"></div>
+                <a clrVerticalNavLink routerLink="./settings" routerLinkActive="active">Settings</a>
+            </clr-vertical-nav>    
+        
+        
+        <div class="content-area">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</clr-main-container>

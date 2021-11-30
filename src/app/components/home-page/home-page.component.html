@@ -1,0 +1,61 @@
+<h2 class="content-block">Server Information</h2>
+<div class="content-block">
+  
+    <div class="clr-row">
+        <div class="clr-col-lg-5 clr-col-sm-6 clr-col-12">
+            <div class="card">
+                <div class="card-header">
+                  Program Info
+                </div>
+                <div class="card-block">
+                  <div class="card-title">
+                    Server Status
+                  </div>
+                  <div class="card-text">
+                    {{ serverStatus }}
+                  </div>
+                  <div class="card-title">
+                    Backend Status
+                  </div>
+                  <div class="card-text">
+                    {{ programStatus }}
+                  </div>
+                </div>
+                
+                <div class="card-footer">
+                  <button class="btn btn-sm btn-link">Start Server</button>
+                  <button class="btn btn-sm btn-link">Stop Server</button>
+                </div>
+            </div>
+        </div>
+        <div class="clr-col-lg-5 clr-col-sm-6 clr-col-12">
+            <div class="card">
+                <div class="card-header">
+                  Host PC Info
+                </div>
+                <div class="card-block">
+                  <div class="card-title">
+                    Model
+                  </div>
+                  <div class="card-text">
+                    {{ serverInfo.model }}
+                  </div>
+                  <div class="card-title">
+                    Public IP
+                  </div>
+                  <div class="card-text">
+                    {{ serverInfo.publicIP }}
+                  </div>
+                  <div class="card-title">
+                    Memory
+                  </div>
+                  <div class="card-text">
+                    {{ serverInfo.freeMem }} GB / {{ serverInfo.totalMem }} GB
+                  </div>
+                </div>
+              </div>
+        </div>
+        
+      </div>
+
+</div>

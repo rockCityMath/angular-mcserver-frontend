@@ -1,0 +1,1 @@
+{"version":3,"file":"box-plot.js","sources":["../../../../src/icon/shapes/box-plot.ts"],"sourcesContent":null,"names":["boxPlotIconName","boxPlotIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAkB,WAClBC,EAAc,CADI,WACcC,EAThC,CACTC,QAAS,gcACTC,eAAgB,kiBAChBC,cAAe,gqBACfC,MAAO,6VACPC,aAAc,uaACdC,YAAa"}

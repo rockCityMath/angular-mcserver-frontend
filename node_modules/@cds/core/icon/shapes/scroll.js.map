@@ -1,0 +1,1 @@
+{"version":3,"file":"scroll.js","sources":["../../../../src/icon/shapes/scroll.ts"],"sourcesContent":null,"names":["scrollIconName","scrollIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,qUACTC,eAAgB,uTAChBC,cAAe,+UACfC,MAAO,qOACPC,aAAc,+OACdC,YAAa"}

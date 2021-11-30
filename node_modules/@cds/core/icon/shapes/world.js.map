@@ -1,0 +1,1 @@
+{"version":3,"file":"world.js","sources":["../../../../src/icon/shapes/world.ts"],"sourcesContent":null,"names":["worldIconName","worldIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAP5B,CACTC,QAAS,o4BACTC,cAAe,k9BACfC,MAAO,84BACPC,YAAa"}

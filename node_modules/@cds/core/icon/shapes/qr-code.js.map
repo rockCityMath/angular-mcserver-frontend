@@ -1,0 +1,1 @@
+{"version":3,"file":"qr-code.js","sources":["../../../../src/icon/shapes/qr-code.ts"],"sourcesContent":null,"names":["qrCodeIconName","qrCodeIcon","renderIcon","outline"],"mappings":"iDAMA,MAGaA,EAAiB,UACjBC,EAAa,CADI,UACaC,EAJ9B,CACTC,QAAS"}

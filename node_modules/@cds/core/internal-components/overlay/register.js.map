@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../../src/internal-components/overlay/register.ts"],"sourcesContent":null,"names":["ClarityMotion","add","AnimationModalEnterName","AnimationModalEnterConfig","registerElementSafely","CdsInternalOverlay"],"mappings":"oMAOAA,EAAcC,IAAIC,EAAyBC,GAC3CC,EAAsB,uBAAwBC"}

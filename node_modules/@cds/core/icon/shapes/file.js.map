@@ -1,0 +1,1 @@
+{"version":3,"file":"file.js","sources":["../../../../src/icon/shapes/file.ts"],"sourcesContent":null,"names":["fileIconName","fileIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAe,OACfC,EAAW,CADI,OACWC,EAT1B,CACTC,QAAS,4JACTC,eAAgB,sJAChBC,cAAe,iNACfC,MAAO,2IACPC,aAAc,sKACdC,YAAa"}

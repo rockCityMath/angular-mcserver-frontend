@@ -1,0 +1,1 @@
+{"version":3,"file":"textarea.element.js","sources":["../../../src/textarea/textarea.element.ts"],"sourcesContent":null,"names":["CdsTextarea","CdsControl","[object Object]","super","arguments","this","supportsPrefixSuffixActions","styles"],"mappings":"uFA8BO,MAAMA,UAAoBC,EAC7BC,cACIC,SAASC,WACTC,KAAKC,6BAA8B,EAEvCC,oBACI,MAAO,IAAIJ,MAAMI,OAAQA"}

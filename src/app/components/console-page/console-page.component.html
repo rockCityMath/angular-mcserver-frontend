@@ -1,0 +1,14 @@
+<div class="console-wrapper">
+    <div class="scroll-wrapper">
+        <div class="scroll-header">Server Console</div>
+        <div class="scroll-body" id="console-div">
+            <div *ngFor="let message of messageList!.slice(1)" class=scroll-body-item>
+                <div>
+                    {{ message }}
+                </div>  
+            </div>
+        </div>
+    </div>
+    <input [(ngModel)]="newMessage" (keyup)="$event.keyCode == 13 && sendMessage()" />
+    <button (click)="sendMessage()">Send Message</button>
+</div>

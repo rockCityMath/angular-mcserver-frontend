@@ -1,0 +1,1 @@
+{"version":3,"file":"computer.js","sources":["../../../../src/icon/shapes/computer.ts"],"sourcesContent":null,"names":["computerIconName","computerIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAmB,WACnBC,EAAe,CADI,WACeC,EATlC,CACTC,QAAS,uVACTC,eAAgB,4WAChBC,cAAe,4ZACfC,MAAO,oOACPC,aAAc,iQACdC,YAAa"}

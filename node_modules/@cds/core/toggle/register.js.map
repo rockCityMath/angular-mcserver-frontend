@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../src/toggle/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsToggle","CdsToggleGroup"],"mappings":"0MASAA,EAAsB,aAAcC,GACpCD,EAAsB,mBAAoBE"}

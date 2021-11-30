@@ -1,0 +1,1 @@
+{"version":3,"file":"vm.js","sources":["../../../../src/icon/shapes/vm.ts"],"sourcesContent":null,"names":["vmIconName","vmIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAa,KACbC,EAAS,CADI,KACSC,EATtB,CACTC,QAAS,iQACTC,eAAgB,6TAChBC,cAAe,gUACfC,MAAO,oUACPC,aAAc,0VACdC,YAAa"}

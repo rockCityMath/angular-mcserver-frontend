@@ -1,0 +1,1 @@
+{"version":3,"file":"chat-bubble.js","sources":["../../../../src/icon/shapes/chat-bubble.ts"],"sourcesContent":null,"names":["chatBubbleIconName","chatBubbleIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAqB,cACrBC,EAAiB,CADI,cACiBC,EAPtC,CACTC,QAAS,yfACTC,cAAe,+nBACfC,MAAO,qWACPC,YAAa"}

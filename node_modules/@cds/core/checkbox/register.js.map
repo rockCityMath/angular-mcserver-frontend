@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../src/checkbox/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsCheckbox","CdsCheckboxGroup"],"mappings":"kNASAA,EAAsB,eAAgBC,GACtCD,EAAsB,qBAAsBE"}

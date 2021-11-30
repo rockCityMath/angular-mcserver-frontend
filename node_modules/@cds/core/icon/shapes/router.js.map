@@ -1,0 +1,1 @@
+{"version":3,"file":"router.js","sources":["../../../../src/icon/shapes/router.ts"],"sourcesContent":null,"names":["routerIconName","routerIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,mcACTC,eAAgB,ubAChBC,cAAe,mcACfC,MAAO,2kBACPC,aAAc,ukBACdC,YAAa"}

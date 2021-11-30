@@ -1,0 +1,1 @@
+{"version":3,"file":"power.js","sources":["../../../../src/icon/shapes/power.ts"],"sourcesContent":null,"names":["powerIconName","powerIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAT5B,CACTC,QAAS,wLACTC,eAAgB,yLAChBC,cAAe,wLACfC,MAAO,uWACPC,aAAc,sTACdC,YAAa"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"tags.js","sources":["../../../../src/icon/shapes/tags.ts"],"sourcesContent":null,"names":["tagsIconName","tagsIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAe,OACfC,EAAW,CADI,OACWC,EAT1B,CACTC,QAAS,saACTC,eAAgB,mhBAChBC,cAAe,saACfC,MAAO,mZACPC,aAAc,ueACdC,YAAa"}

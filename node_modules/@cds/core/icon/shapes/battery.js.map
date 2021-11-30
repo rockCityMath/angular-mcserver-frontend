@@ -1,0 +1,1 @@
+{"version":3,"file":"battery.js","sources":["../../../../src/icon/shapes/battery.ts"],"sourcesContent":null,"names":["batteryIconName","batteryIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAkB,UAClBC,EAAc,CADI,UACcC,EAThC,CACTC,QAAS,mVACTC,eAAgB,2TAChBC,cAAe,mWACfC,MAAO,uQACPC,aAAc,yTACdC,YAAa"}

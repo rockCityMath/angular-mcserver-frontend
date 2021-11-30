@@ -1,0 +1,1 @@
+{"version":3,"file":"map-marker.js","sources":["../../../../src/icon/shapes/map-marker.ts"],"sourcesContent":null,"names":["mapMarkerIconName","mapMarkerIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAoB,aACpBC,EAAgB,CADI,aACgBC,EAPpC,CACTC,QAAS,8fACTC,cAAe,qkBACfC,MAAO,8SACPC,YAAa"}

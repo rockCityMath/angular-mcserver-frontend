@@ -1,0 +1,1 @@
+{"version":3,"file":"plugin.js","sources":["../../../../src/icon/shapes/plugin.ts"],"sourcesContent":null,"names":["pluginIconName","pluginIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,mdACTC,eAAgB,scAChBC,cAAe,6eACfC,MAAO,kQACPC,aAAc,sRACdC,YAAa"}

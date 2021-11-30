@@ -1,0 +1,1 @@
+{"version":3,"file":"shield.js","sources":["../../../../src/icon/shapes/shield.ts"],"sourcesContent":null,"names":["shieldIconName","shieldIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,4YACTC,eAAgB,yVAChBC,cAAe,2ZACfC,MAAO,uOACPC,aAAc,gPACdC,YAAa"}

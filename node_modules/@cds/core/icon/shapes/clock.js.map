@@ -1,0 +1,1 @@
+{"version":3,"file":"clock.js","sources":["../../../../src/icon/shapes/clock.ts"],"sourcesContent":null,"names":["clockIconName","clockIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAT5B,CACTC,QAAS,4RACTC,eAAgB,4RAChBC,cAAe,sVACfC,MAAO,yNACPC,aAAc,6UACdC,YAAa"}

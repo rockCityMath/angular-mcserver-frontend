@@ -1,0 +1,49 @@
+
+.console-wrapper {
+	width: 60vw;
+	height: 60vh;
+	display: flex;
+	flex-direction: column;
+	border-radius: 0px;
+}
+@media screen and (max-width: 768px) {
+	.console-wrapper {
+		width: 90vw;
+	}
+	.scroll-wrapper {
+		width: 90vw !important;
+		.scroll-header {
+			
+			z-index: 100;
+		}
+	}
+  }
+.scroll-wrapper {
+	width: 60vw;
+	height: 60vh;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid gray;
+	border-radius: 0px;
+	.scroll-header{
+		display: flex;
+		justify-content: space-around;
+		border-bottom: 1px solid gray;
+		font-weight: bold;
+	}
+	.scroll-body {
+		overflow-y: auto;
+		.scroll-body-item {
+			height: fit-content;
+			display: flex;
+			justify-content: left;
+			align-items: left;
+			padding: 2px;
+			//border-bottom: 1px solid gray;
+			&:last-child {
+				border: none;
+				padding-bottom:4vh;
+			}
+		}
+	}
+}

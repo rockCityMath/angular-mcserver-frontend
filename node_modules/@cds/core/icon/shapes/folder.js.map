@@ -1,0 +1,1 @@
+{"version":3,"file":"folder.js","sources":["../../../../src/icon/shapes/folder.ts"],"sourcesContent":null,"names":["folderIconName","folderIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,iMACTC,eAAgB,sNAChBC,cAAe,oOACfC,MAAO,gJACPC,aAAc,yKACdC,YAAa"}

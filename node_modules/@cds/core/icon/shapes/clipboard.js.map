@@ -1,0 +1,1 @@
+{"version":3,"file":"clipboard.js","sources":["../../../../src/icon/shapes/clipboard.ts"],"sourcesContent":null,"names":["clipboardIconName","clipboardIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAoB,YACpBC,EAAgB,CADI,YACgBC,EAPpC,CACTC,QAAS,4fACTC,cAAe,+hBACfC,MAAO,oUACPC,YAAa"}

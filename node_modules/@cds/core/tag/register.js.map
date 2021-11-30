@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../src/tag/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsTag","ClarityIcons","addIcons","timesIcon"],"mappings":"8NASAA,EAAsB,UAAWC,GACjCC,EAAaC,SAASC"}

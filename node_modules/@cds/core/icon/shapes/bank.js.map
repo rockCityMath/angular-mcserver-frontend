@@ -1,0 +1,1 @@
+{"version":3,"file":"bank.js","sources":["../../../../src/icon/shapes/bank.ts"],"sourcesContent":null,"names":["bankIconName","bankIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAe,OACfC,EAAW,CADI,OACWC,EAT1B,CACTC,QAAS,iYACTC,eAAgB,gaAChBC,cAAe,oeACfC,MAAO,mXACPC,aAAc,mXACdC,YAAa"}

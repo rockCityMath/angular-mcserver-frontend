@@ -1,0 +1,1 @@
+{"version":3,"file":"dashboard.js","sources":["../../../../src/icon/shapes/dashboard.ts"],"sourcesContent":null,"names":["dashboardIconName","dashboardIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAoB,YACpBC,EAAgB,CADI,YACgBC,EAPpC,CACTC,QAAS,4XACTC,cAAe,0eACfC,MAAO,kZACPC,YAAa"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"install.js","sources":["../../../../src/icon/shapes/install.ts"],"sourcesContent":null,"names":["installIconName","installIcon","renderIcon","outline","outlineAlerted","outlineBadged"],"mappings":"iDAMA,MAKaA,EAAkB,UAClBC,EAAc,CADI,UACcC,EANhC,CACTC,QAAS,kSACTC,eAAgB,2PAChBC,cAAe"}

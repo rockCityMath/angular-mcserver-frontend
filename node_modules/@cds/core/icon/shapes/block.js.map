@@ -1,0 +1,1 @@
+{"version":3,"file":"block.js","sources":["../../../../src/icon/shapes/block.ts"],"sourcesContent":null,"names":["blockIconName","blockIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAT5B,CACTC,QAAS,wPACTC,eAAgB,8QAChBC,cAAe,kUACfC,MAAO,8NACPC,aAAc,wOACdC,YAAa"}

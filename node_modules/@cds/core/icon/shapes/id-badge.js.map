@@ -1,0 +1,1 @@
+{"version":3,"file":"id-badge.js","sources":["../../../../src/icon/shapes/id-badge.ts"],"sourcesContent":null,"names":["idBadgeIconName","idBadgeIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAkB,WAClBC,EAAc,CADI,WACcC,EAThC,CACTC,QAAS,ieACTC,eAAgB,qgBAChBC,cAAe,ifACfC,MAAO,kUACPC,aAAc,8TACdC,YAAa"}

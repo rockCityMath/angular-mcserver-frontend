@@ -1,0 +1,1 @@
+{"version":3,"file":"storage.js","sources":["../../../../src/icon/shapes/storage.ts"],"sourcesContent":null,"names":["storageIconName","storageIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAkB,UAClBC,EAAc,CADI,UACcC,EAThC,CACTC,QAAS,yiBACTC,eAAgB,qiBAChBC,cAAe,onBACfC,MAAO,kdACPC,aAAc,giBACdC,YAAa"}

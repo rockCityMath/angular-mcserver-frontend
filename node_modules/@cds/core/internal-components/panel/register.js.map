@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../../src/internal-components/panel/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsInternalPanelTagName","CdsInternalPanel"],"mappings":"8IAOAA,EAAsBC,EAAyBC"}

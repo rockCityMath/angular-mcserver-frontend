@@ -1,0 +1,1 @@
+{"version":3,"file":"floppy.js","sources":["../../../../src/icon/shapes/floppy.ts"],"sourcesContent":null,"names":["floppyIconName","floppyIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAiB,SACjBC,EAAa,CADI,SACaC,EAT9B,CACTC,QAAS,qMACTC,eAAgB,2MAChBC,cAAe,sPACfC,MAAO,8LACPC,aAAc,qOACdC,YAAa"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"printer.js","sources":["../../../../src/icon/shapes/printer.ts"],"sourcesContent":null,"names":["printerIconName","printerIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAkB,UAClBC,EAAc,CADI,UACcC,EAThC,CACTC,QAAS,yQACTC,eAAgB,2RAChBC,cAAe,4WACfC,MAAO,4HACPC,aAAc,sIACdC,YAAa"}

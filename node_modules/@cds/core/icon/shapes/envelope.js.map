@@ -1,0 +1,1 @@
+{"version":3,"file":"envelope.js","sources":["../../../../src/icon/shapes/envelope.ts"],"sourcesContent":null,"names":["envelopeIconName","envelopeIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAmB,WACnBC,EAAe,CADI,WACeC,EATlC,CACTC,QAAS,8NACTC,eAAgB,0OAChBC,cAAe,2RACfC,MAAO,kSACPC,aAAc,8SACdC,YAAa"}

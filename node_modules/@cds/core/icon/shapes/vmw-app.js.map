@@ -1,0 +1,1 @@
+{"version":3,"file":"vmw-app.js","sources":["../../../../src/icon/shapes/vmw-app.ts"],"sourcesContent":null,"names":["vmwAppIconName","vmwAppIcon","renderIcon","outline","outlineAlerted","outlineBadged"],"mappings":"iDAMA,MAKaA,EAAiB,UACjBC,EAAa,CADI,UACaC,EAN9B,CACTC,QAAS,qeACTC,eAAgB,8gBAChBC,cAAe"}

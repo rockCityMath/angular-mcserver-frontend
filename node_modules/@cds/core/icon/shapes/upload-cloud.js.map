@@ -1,0 +1,1 @@
+{"version":3,"file":"upload-cloud.js","sources":["../../../../src/icon/shapes/upload-cloud.ts"],"sourcesContent":null,"names":["uploadCloudIconName","uploadCloudIcon","renderIcon","outline","outlineAlerted","outlineBadged"],"mappings":"iDAMA,MAKaA,EAAsB,eACtBC,EAAkB,CADI,eACkBC,EANxC,CACTC,QAAS,wcACTC,eAAgB,kdAChBC,cAAe"}

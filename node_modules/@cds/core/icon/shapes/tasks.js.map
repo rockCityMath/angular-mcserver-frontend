@@ -1,0 +1,1 @@
+{"version":3,"file":"tasks.js","sources":["../../../../src/icon/shapes/tasks.ts"],"sourcesContent":null,"names":["tasksIconName","tasksIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAT5B,CACTC,QAAS,8aACTC,eAAgB,0YAChBC,cAAe,kdACfC,MAAO,sVACPC,aAAc,iUACdC,YAAa"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"panel.element.js","sources":["../../../../src/internal-components/panel/panel.element.ts"],"sourcesContent":null,"names":["CdsInternalPanelTagName","CdsInternalPanel","LitElement","styles","baseStyles","[object Object]","html"],"mappings":"kIAGY,MAACA,EAA0B,qBA2BhC,MAAMC,UAAyBC,EAClCC,oBACI,MAAO,CAACC,EAAYD,GAExBE,SACI,OAAOC,CAAK"}

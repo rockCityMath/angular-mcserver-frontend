@@ -1,0 +1,1 @@
+{"version":3,"file":"register.js","sources":["../../../src/pagination/register.ts"],"sourcesContent":null,"names":["registerElementSafely","CdsPagination","CdsPaginationButton","ClarityIcons","addIcons","angleIcon","stepForward2Icon"],"mappings":"weAcAA,EAAsB,iBAAkBC,GACxCD,EAAsB,wBAAyBE,GAC/CC,EAAaC,SAASC,GACtBF,EAAaC,SAASE"}

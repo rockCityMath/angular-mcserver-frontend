@@ -1,0 +1,1 @@
+{"version":3,"file":"uninstall.js","sources":["../../../../src/icon/shapes/uninstall.ts"],"sourcesContent":null,"names":["uninstallIconName","uninstallIcon","renderIcon","outline","outlineAlerted","outlineBadged"],"mappings":"iDAMA,MAKaA,EAAoB,YACpBC,EAAgB,CADI,YACgBC,EANpC,CACTC,QAAS,uWACTC,eAAgB,yUAChBC,cAAe"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"event.js","sources":["../../../../src/icon/shapes/event.ts"],"sourcesContent":null,"names":["eventIconName","eventIcon","renderIcon","outline","outlineAlerted","outlineBadged","solid","solidAlerted","solidBadged"],"mappings":"iDAMA,MAQaA,EAAgB,QAChBC,EAAY,CADI,QACYC,EAT5B,CACTC,QAAS,8aACTC,eAAgB,4WAChBC,cAAe,6XACfC,MAAO,+aACPC,aAAc,kVACdC,YAAa"}

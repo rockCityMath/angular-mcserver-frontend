@@ -1,0 +1,1 @@
+{"version":3,"file":"list.js","sources":["../../../../src/icon/shapes/list.ts"],"sourcesContent":null,"names":["listIconName","listIcon","renderIcon","outline","outlineBadged","solid","solidBadged"],"mappings":"iDAMA,MAMaA,EAAe,OACfC,EAAW,CADI,OACWC,EAP1B,CACTC,QAAS,ugBACTC,cAAe,ojBACfC,MAAO,iOACPC,YAAa"}

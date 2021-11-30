@@ -1,0 +1,1 @@
+{"version":3,"file":"download.js","sources":["../../../../src/icon/shapes/download.ts"],"sourcesContent":null,"names":["downloadIconName","downloadIcon","renderIcon","outline","outlineAlerted","outlineBadged"],"mappings":"iDAMA,MAKaA,EAAmB,WACnBC,EAAe,CADI,WACeC,EANlC,CACTC,QAAS,2KACTC,eAAgB,2KAChBC,cAAe"}
