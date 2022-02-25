@@ -12,3 +12,6 @@ Current features:
 - ng serve
 - Visit the machines IP in your browser     
 This is just for testing, but it's definitely possible to build a distribution and deploy that to any HTTP server. 
+
+# In Action
+https://www.youtube.com/watch?v=H5wqxKnHypY
